@@ -3,7 +3,6 @@
 # LAB | Express IronBeers
 
 ## Introduction
-
 Sometimes you would just like to have a very descriptive list of all beers so you could see their type, color, each beer's percentage of alcohol, or which beer is well pared with some food. In this lab, you will create a web app where the user will be able to see a list of beers, get random suggestions, and read a very descriptive explanation of each beer.
 
 "How will we get all of this information?", you might ask. Well, we will be using an npm package :package: as our data source.
